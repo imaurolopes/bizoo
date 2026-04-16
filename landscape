@@ -1,1 +1,7 @@
-
+Região (Region)
+ └── Zona de Disponibilidade (AZ / Zone)
+      └── Data Centers (1 ou mais)
+           └── Racks
+                └── Servidores (compute + storage)
+                     └── Discos (HDD/SSD)
+					 
