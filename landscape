@@ -5,3 +5,14 @@ Região (Region)
                 └── Servidores (compute + storage)
                      └── Discos (HDD/SSD)
 					 
+
+Conta AWS
+ └── IAM
+      ├── Identidades
+      │     ├── Users
+      │     └── Roles
+      ├── Agrupadores
+      │     └── Groups
+      └── Regras
+            └── Policies
+            
